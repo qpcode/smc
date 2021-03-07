@@ -4,8 +4,8 @@ Introduction
 
 SMC provides a suite of algorithms meant to solve various coverage problems using multi-agent systems. SMC is a simple yet effective approach for solving such coverage problems. The algorithms in this library are primarily based on ideas presented in these two papers:
 
-1. [A Static Coverage Algorithm for Locational Optimization](http://geoggy.net/resources/Static_SMC_CDC.pdf)
-2. [Metrics for ergodicity and design of ergodic dynamics for multi-agent systems](http://geoggy.net/resources/Mathew10Metrics.pdf)
+1. [A Static Coverage Algorithm for Locational Optimization](https://static1.squarespace.com/static/5eea6362f2f0d46ceceba388/t/5ef04495560a724a67897faf/1592804503616/Static_SMC_CDC.pdf)
+2. [Metrics for ergodicity and design of ergodic dynamics for multi-agent systems](https://static1.squarespace.com/static/5eea6362f2f0d46ceceba388/t/5ef04406111d8b59195003c5/1592804370071/Mathew10Metrics.pdf)
 
 Download and Install
 --------------------
